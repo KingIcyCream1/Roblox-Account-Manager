@@ -1,4 +1,2 @@
-﻿[*.cs]
-
-# IDE1006: Naming Styles
-dotnet_diagnostic.IDE1006.severity = none
+[*.cs]
+dotnet_diagnostic.IDE1006.severity = silent
